@@ -1,0 +1,11 @@
+"Rate of Victimizations by Crime Type, 2019 vs. 2020--Race/Hispanic Ethnicity: Hispanic"
+Year,All,Race/Hispanic ethnicity,Crime Type,Number,Number CI Lower Bound,Number CI Upper Bound,Rate,Rate CI Lower Bound,Rate CI Upper Bound,Rate SE
+"2019","All","Hispanic","Violent victimization","1,019,877","800,221","1,239,532","21.3","16.88","25.71","2.25"
+"2020","All","Hispanic","Violent victimization","772,739","586,360","959,118","15.9","12.18","19.59","1.89"
+"95% C.I.: 95% confidence interval."
+"S.E.: Standard error."
+"Other includes the racial categories of Asian, Native Hawaiian and Other Pacific Islander, American Indian and Alaska Native, and persons of two or more races. Race categories exclude persons of Hispanic/Latino origin. See Terms and Definitions for more information."
+"For more information on race/ethnicity and changes to categories over time, see https://ncvs.bjs.ojp.gov/methodology#collectRace section in the User's Guide."
+"Estimates for 2006 should not be compared to other years. See https://ncvs.bjs.ojp.gov/methodology#dataComp for more information."
+"In October 2019, BJS released a revised set of 2016 NCVS data. See https://ncvs.bjs.ojp.gov/methodology#dataComp for more information."
+"Source: Bureau of Justice Statistics, National Crime Victimization Survey, 2019-2020". https://ncvs.bjs.ojp.gov/year-to-year-comparison/crimeType
