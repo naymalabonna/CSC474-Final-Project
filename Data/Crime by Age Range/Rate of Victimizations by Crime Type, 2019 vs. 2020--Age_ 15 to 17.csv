@@ -1,0 +1,10 @@
+"Rate of Victimizations by Crime Type, 2019 vs. 2020--Age: 15 to 17"
+Year,All,Age,Crime Type,Number,Number CI Lower Bound,Number CI Upper Bound,Rate,Rate CI Lower Bound,Rate CI Upper Bound,Rate SE
+"2019","All","15 to 17","Violent victimization","457,653","329,499","585,807","37.2","27.46","47.01","4.99"
+"2020","All","15 to 17","Violent victimization","227,627","146,368","308,886","18.3","12.05","24.58","3.20"
+"95% C.I.: 95% confidence interval."
+"S.E.: Standard error."
+"Estimates for 2006 should not be compared to other years. See https://ncvs.bjs.ojp.gov/methodology#dataComp for more information."
+"In October 2019, BJS released a revised set of 2016 NCVS data. See https://ncvs.bjs.ojp.gov/methodology#dataComp for more information."
+"One limitation of the 2016 NCVS revised data file relates to youth 12-17 years old. A significant portion of youth crime occurs at school and therefore, an inherent limitation of the file is that the youth in the sample had less time in school based on the cases that were pulled for the revised file. Please use caution when examining crime estimates for youth using 2016 data."
+"Source: Bureau of Justice Statistics, National Crime Victimization Survey, 2019-2020". https://ncvs.bjs.ojp.gov/year-to-year-comparison/crimeType
