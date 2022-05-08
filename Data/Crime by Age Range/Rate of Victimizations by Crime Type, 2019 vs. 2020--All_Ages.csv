@@ -1,0 +1,17 @@
+Year,All,Age,Crime Type,Number,Number CI Lower Bound,Number CI Upper Bound,Rate,Rate CI Lower Bound,Rate CI Upper Bound,Rate SE
+2019,All,12 to 14,Violent victimization,"419,253","298,345","540,160",33.1,24.13,42.15,4.6
+2020,All,12 to 14,Violent victimization,"206,772","130,553","282,991",16.5,10.63,22.29,2.98
+2019,All,15 to 17,Violent victimization,"457,653","329,499","585,807",37.2,27.46,47.01,4.99
+2020,All,15 to 17,Violent victimization,"227,627","146,368","308,886",18.3,12.05,24.58,3.2
+2019,All,18 to 20,Violent victimization,"522,726","382,698","662,753",40.9,30.68,51.14,5.22
+2020,All,18 to 20,Violent victimization,"383,122","267,767","498,478",30.5,21.82,39.09,4.41
+2019,All,21 to 24,Violent victimization,"581,081","430,783","731,379",34.4,26.06,42.84,4.28
+2020,All,21 to 24,Violent victimization,"485,121","349,675","620,568",28.9,21.3,36.55,3.89
+2019,All,25 to 34,Violent victimization,"1,134,238","898,136","1,370,339",25,20.05,30.04,2.55
+2020,All,25 to 34,Violent victimization,"970,661","752,522","1,188,801",21.4,16.81,26.05,2.36
+2019,All,35 to 49,Violent victimization,"1,197,370","952,406","1,442,335",19.5,15.62,23.33,1.97
+2020,All,35 to 49,Violent victimization,"1,124,244","882,770","1,365,718",18.3,14.51,22.11,1.94
+2019,All,50 to 64,Violent victimization,"1,186,279","942,862","1,429,697",18.9,15.18,22.7,1.92
+2020,All,50 to 64,Violent victimization,"912,334","703,338","1,121,331",14.6,11.35,17.85,1.66
+2019,All,65 or older,Violent victimization,"314,809","214,737","414,880",6,4.09,7.82,0.95
+2020,All,65 or older,Violent victimization,"248,272","162,158","334,385",4.5,2.99,6.11,0.79
